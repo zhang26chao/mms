@@ -22,7 +22,7 @@
     </style>
 
     <div style="float: right">
-        <ckeditor:editor name="content" height="200px" width="100%">
+        <ckeditor:editor name="content" height="200px" width="627px">
             ${noticeInstance?.content}
         </ckeditor:editor>
     </div>
